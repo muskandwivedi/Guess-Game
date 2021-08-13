@@ -3,5 +3,5 @@ The goal of this game is to guess the correct number between 1 and 20. In the gu
 These messages will help you in guessing the correct number.
      ### This game contains two score=>
 * SCORE=> This is already set to 20.
-* HIGHSCORE=> Here when you guess the correct number the above SCORE is added to this(HIGHSCORE) which is curently 0.
-* On the top left corner you see the AGAIN button. If you click on this button your game restart.
+* HIGHSCORE=> Here when you guess the correct number the above SCORE is added to this(HIGHSCORE) which is currently 0.
+* On the top left corner you see the AGAIN button. If you click on this button your game restart and your HIGHSCORE become 0.
